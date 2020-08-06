@@ -1,4 +1,6 @@
-//
+//Objective is to see if a number is a power of 3
+
+let n = 27
 
 
 //O(1) solution that uses math to derive the answer
